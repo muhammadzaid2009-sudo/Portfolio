@@ -5,8 +5,8 @@ A responsive, accessible static portfolio for GitHub Pages. It uses plain HTML a
 ## Files
 
 - `index.html`, `styles.css` — page markup and visual system.
-- `content/profile.json`, `content/projects.json`, `content/stack.json` — editable source-of-truth content. Copy updates into the corresponding HTML sections; the page intentionally stays usable without a data-loading script.
-- `assets/` — locally authored SVG favicon and social sharing image.
+- `content/profile.json`, `content/projects.json`, `content/stack.json`, `content/certifications.json` — editable content records. Update matching page copy in `index.html`; the page stays usable without a data-loading script.
+- `assets/` — locally authored SVG favicon and social sharing image, plus the locally stored LetsDefend badge image.
 - `robots.txt`, `sitemap.xml` — search crawler files.
 
 ## Preview locally
@@ -19,10 +19,9 @@ Edit the JSON content files first, then update matching copy in `index.html`. Ke
 
 ## Deploy to GitHub Pages
 
-1. Create a public repository named `muhammadzaid2009-sudo.github.io`.
-2. Add these files at the repository root and push to the default branch.
-3. In repository **Settings → Pages**, select **Deploy from a branch**, choose the default branch and `/ (root)`, then save.
-4. The site should be available at `https://muhammadzaid2009-sudo.github.io/`. If using another domain, update the canonical URL, Open Graph image URL, sitemap, and social image metadata.
+1. Push these files to the `main` branch of `muhammadzaid2009-sudo/Portfolio`.
+2. In repository **Settings → Pages**, select **Deploy from a branch**, choose `main` and `/ (root)`, then save.
+3. The project site URL is `https://muhammadzaid2009-sudo.github.io/Portfolio/`. If you choose another domain or rename the repo, update the canonical URL, Open Graph image URL, sitemap, and robots file.
 
 No workflow is needed for a plain static root deployment. The page is designed for responsive layouts, keyboard use, reduced motion, dark-mode preference, print, and semantic navigation.
 
@@ -32,4 +31,6 @@ The visual direction is a quiet case file: an asymmetrical identity rail and a s
 
 The alert resolves once on load and stops animating when reduced motion is requested. The SVG lab diagram is hand-built and includes a text alternative. All external links are ordinary links; no third-party assets are loaded.
 
+## Remaining information
 
+See `content/profile.json` for all `[CONFIRM]` and `[TODO]` items.

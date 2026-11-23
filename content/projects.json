@@ -1,0 +1,58 @@
+[
+  {
+    "title": "Write-Ups",
+    "type": "Documentation",
+    "summary": "A practical learning journal for CTF walkthroughs and security lab notes, documenting approaches, findings, and lessons beyond the final result.",
+    "problem": "Make lab work repeatable and useful after the challenge ends.",
+    "technologies": ["CTFs", "Web security", "Linux", "Windows & AD"],
+    "repository": "https://github.com/muhammadzaid2009-sudo/Write-Ups",
+    "live": "",
+    "status": "Ongoing; authorized labs",
+    "sample": "[TODO: choose a representative write-up or output sample]",
+    "details": ["Agent T", "Operation Promotion", "Recruite CTF", "Relevant CTF WriteUp", "RootMe CTF WriteUp", "Silent Monitor CTF", "Simple CTF", "Support CTF", "ToolsRus CTF"]
+  },
+  {
+    "title": "Scripts & Tools",
+    "type": "Security scripts",
+    "summary": "A growing collection of small scripts and experiments across Python, networking, reconnaissance, packet analysis, and security testing.",
+    "problem": "Learn by building and improving practical tools.",
+    "technologies": ["Python", "Bash", "Linux", "Networking"],
+    "repository": "https://github.com/muhammadzaid2009-sudo/Scripts-and-Tools",
+    "live": "",
+    "status": "Experimental; maturity varies by project",
+    "sample": "[TODO: choose a representative tool or output sample]"
+  },
+  {
+    "title": "CTF & Lab Write-ups",
+    "type": "Documentation",
+    "summary": "Methodology, enumeration, findings, and lessons learned from labs and CTFs.",
+    "problem": "Keep a public record of learning from authorized labs.",
+    "technologies": ["GitBook", "Security labs"],
+    "repository": "",
+    "live": "https://muhammad-zaid.gitbook.io/muhammad-zaid-ctf-docs/",
+    "status": "Published documentation",
+    "sample": "[TODO: choose a page or output sample]"
+  },
+  {
+    "title": "Python Projects",
+    "type": "Python",
+    "summary": "A collection of Python projects for hands-on practice. The repository README does not describe individual projects.",
+    "problem": "[TODO: add one project and the problem it solves]",
+    "technologies": ["Python"],
+    "repository": "https://github.com/muhammadzaid2009-sudo/Python-Projects",
+    "live": "",
+    "status": "Collection; details to add",
+    "sample": "[TODO: choose a project screenshot or output sample]"
+  },
+  {
+    "title": "Medium Articles",
+    "type": "Writing",
+    "summary": "Articles and reflections on technology and cybersecurity.",
+    "problem": "[TODO: choose a representative article or topic]",
+    "technologies": ["Medium"],
+    "repository": "",
+    "live": "https://medium.com/@muhammadzaid2009",
+    "status": "Published writing",
+    "sample": "[TODO: add three recent article titles and dates]"
+  }
+]

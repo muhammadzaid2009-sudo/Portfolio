@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Jr Penetration Tester",
+    "issuer": "TryHackMe",
+    "type": "Intermediate learning path completion",
+    "completed": "2026-11-10",
+    "description": "Covered the penetration-testing lifecycle from reconnaissance to reporting, with hands-on web, network, and Active Directory topics.",
+    "details": ["18 modules", "98 hands-on labs"],
+    "url": "https://tryhackme.com/certificate/THM-BTSJQLU7VA"
+  },
+  {
+    "title": "Pre Security (Legacy)",
+    "issuer": "TryHackMe",
+    "type": "Learning path completion",
+    "completed": "2026-11-04",
+    "description": "Built foundations in cybersecurity, networking, web technologies, and Linux and Windows fundamentals. TryHackMe labels this the legacy path.",
+    "details": ["5 modules", "18 hands-on labs"],
+    "url": "https://tryhackme.com/certificate/THM-BPGLKNG48G"
+  },
+  {
+    "title": "SOC Member",
+    "issuer": "LetsDefend",
+    "type": "Badge for SOC Fundamentals course completion",
+    "completed": "2026-11-07",
+    "description": "Recognizes completion of SOC Fundamentals, with practice investigating simulated cyber attacks in a simulated SOC environment.",
+    "details": ["Blue-team foundations", "Simulated SOC"],
+    "url": "https://app.letsdefend.io/my-rewards/detail/68ffd58efbe44ee0abe917f64bb21c87"
+  }
+]
