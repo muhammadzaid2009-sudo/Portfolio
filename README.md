@@ -32,7 +32,4 @@ The visual direction is a quiet case file: an asymmetrical identity rail and a s
 
 The alert resolves once on load and stops animating when reduced motion is requested. The SVG lab diagram is hand-built and includes a text alternative. All external links are ordinary links; no third-party assets are loaded.
 
-## Remaining information
-
-See `content/profile.json` for all `[CONFIRM]` and `[TODO]` items.
 
