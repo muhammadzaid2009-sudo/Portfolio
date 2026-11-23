@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://muhammadzaid2009-sudo.github.io/Portfolio/sitemap.xml

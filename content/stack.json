@@ -1,0 +1,13 @@
+{
+  "handsOn": {
+    "confirmationRequired": true,
+    "categories": {
+      "Security": ["Wazuh", "Burp Suite", "Nmap", "Kali Linux", "TryHackMe"],
+      "Scripting": ["Python", "Bash", "PowerShell"],
+      "Systems": ["Linux", "Windows", "Apache", "MySQL", "VMware"],
+      "Workflow": ["Git", "GitHub", "Obsidian", "Markdown"]
+    }
+  },
+  "learningNow": ["C", "C++", "Active Directory", "Web application security", "Bug bounty methodology"],
+  "plannedNext": ["Java", "Cloud fundamentals", "Networking fundamentals", "OSEP-style red-team preparation"]
+}

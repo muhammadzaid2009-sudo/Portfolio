@@ -1,0 +1,64 @@
+{
+  "name": "Muhammad Zaid",
+  "role": "First-year computer science student, cybersecurity focus",
+  "position": "SOC L1 Intern",
+  "employer": "DeepAegis",
+  "country": "Pakistan",
+  "email": "muhammadzaid2009@outlook.com",
+  "pitch": "I break things in labs so I can learn to detect and defend them in the real world.",
+  "bio": "I'm a computer science student focused on cybersecurity. I learn by doing: working through hands-on labs, investigating real logs, writing small automation scripts, and publishing what I find as clear, evidence-based write-ups. Right now I'm a SOC intern working in Wazuh, and in my own time I practise web application testing and build a home lab to see attacks from both sides.",
+  "handles": {
+    "github": "muhammadzaid2009-sudo",
+    "tryhackme": "muhammadzaid2009",
+    "medium": "@muhammadzaid2009"
+  },
+  "socials": {
+    "github": "https://github.com/muhammadzaid2009-sudo",
+    "tryhackme": "https://tryhackme.com/p/muhammadzaid2009",
+    "medium": "https://medium.com/@muhammadzaid2009",
+    "gitbook": "https://muhammad-zaid.gitbook.io/muhammad-zaid-ctf-docs/",
+    "linkedin": "https://www.linkedin.com/in/muhammad-zaid2009/"
+  },
+  "contactLine": "I'm open to learning opportunities and collaboration on beginner-friendly cybersecurity, defensive security, and Python automation projects.",
+  "completedLearning": [
+    "TryHackMe Jr Penetration Tester learning path",
+    "TryHackMe Pre Security (Legacy) learning path",
+    "LetsDefend SOC Fundamentals course"
+  ],
+  "tryHackMeProgress": {
+    "completedLabs": "250+",
+    "streakDays": "140+",
+    "rank": "Top 1%"
+  },
+  "nearTermGoals": [
+    "Go deeper into web application security and bug bounty",
+    "Build Active Directory attack and defense labs",
+    "Strengthen Python, then learn C++ and Java",
+    "Keep publishing evidence-based write-ups"
+  ],
+  "longerTermInterests": [
+    "Bug bounty hunting",
+    "Red teaming",
+    "Web application security",
+    "OSINT",
+    "Active Directory",
+    "Windows internals",
+    "Cloud and networking fundamentals",
+    "AI security"
+  ],
+  "confirm": [
+    "English as a spoken language",
+    "Depth for every technology listed in the Hands-on tier (especially Python and PowerShell)",
+    "Near-term goal wording and timeline (listed as next 6–12 months)"
+  ],
+  "todo": [
+    "SOC internship start date and whether DeepAegis may be named publicly",
+    "Two or three write-ups to pin as best work, if different from the current featured repositories",
+    "Representative screenshot or output sample for each project",
+    "Whether to link a downloadable resume and the PDF, if wanted",
+    "Preferred domain (currently set up for the GitHub Pages default)",
+    "Light/dark theme preference (both themes currently follow device preference)",
+    "Add a featured Python project",
+    "Three recent Medium article titles and dates"
+  ]
+}
