@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" role="img" aria-labelledby="title desc">
+  <title id="title">Keylogger behavior analysis lab preview</title>
+  <desc id="desc">A dark slate sample panel labeled authorized lab analysis, with a keyboard outline and network indicator.</desc>
+  <rect width="1280" height="720" fill="#101c29"/>
+  <path d="M0 0h18v720H0z" fill="#9bafff"/>
+  <rect x="82" y="78" width="1116" height="564" rx="8" fill="#172635" stroke="#43586b" stroke-width="2"/>
+  <text x="132" y="158" fill="#afbdc9" font-family="monospace" font-size="23" letter-spacing="3">SECURITY LAB · BEHAVIOR ANALYSIS</text>
+  <text x="132" y="262" fill="#e7edf3" font-family="Arial, sans-serif" font-size="54" font-weight="700">Keylogger sample review</text>
+  <text x="132" y="322" fill="#afbdc9" font-family="Arial, sans-serif" font-size="27">Authorized, isolated environment only</text>
+  <g transform="translate(132 386)" fill="none" stroke="#9bafff" stroke-width="5">
+    <rect width="436" height="128" rx="10"/>
+    <path d="M30 32h42m18 0h42m18 0h42m18 0h42m18 0h42m18 0h42m18 0h34M30 66h42m18 0h42m18 0h42m18 0h42m18 0h42m18 0h42m18 0h34M60 100h260"/>
+  </g>
+  <path d="M720 454h286" stroke="#43586b" stroke-width="4" stroke-dasharray="10 12"/>
+  <circle cx="720" cy="454" r="12" fill="#9bafff"/>
+  <rect x="1006" y="412" width="104" height="84" rx="12" fill="#202b48" stroke="#6f82cf" stroke-width="3"/>
+  <path d="M1033 438h50m-50 18h50m-50 18h50" stroke="#afbdc9" stroke-width="4"/>
+</svg>

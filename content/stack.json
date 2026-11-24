@@ -9,5 +9,5 @@
     }
   },
   "learningNow": ["C", "C++", "Active Directory", "Web application security", "Bug bounty methodology"],
-  "plannedNext": ["Java", "Cloud fundamentals", "Networking fundamentals", "OSEP-style red-team preparation"]
+  "plannedNext": ["Java", "Cloud fundamentals", "Networking fundamentals", "Active Directory attack and defense labs"]
 }
